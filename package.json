@@ -1,0 +1,19 @@
+{
+  "name": "drumset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikecee0815/drumset.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikecee0815/drumset/issues"
+  },
+  "homepage": "https://github.com/mikecee0815/drumset#readme"
+}
